@@ -8,7 +8,7 @@ I am an experienced JavaScript Developer with 4 years of experience, with expert
 
 * 🌍  I'm based in Bengaluru/ Pune/ Guwahati
 * ✉️  You can contact me at [chatterjee.codes@gmail.com](mailto:chatterjee.codes@gmail.com)
-* 🧠  I'm learning Docker
+* 🧠  I'm learning Docker currently
 * 🤝  I'm open to collaborating on building interesting projects
 * ⚡  My idol is my future-self
 
