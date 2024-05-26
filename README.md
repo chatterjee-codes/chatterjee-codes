@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 JavaScript Developer
 --------------------
 
-I am an experienced JavaScript Developer, with expertise in React, Next.js and Node.js
+I am an experienced JavaScript Developer with 4 years of experience, with expertise in React, Next.js and Node.js
 
 * 🌍  I'm based in Bengaluru/ Pune/ Guwahati
 * ✉️  You can contact me at [chatterjee.codes@gmail.com](mailto:chatterjee.codes@gmail.com)
