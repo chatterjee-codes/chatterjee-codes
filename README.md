@@ -6,9 +6,8 @@ JavaScript Developer
 
 I am an experienced JavaScript Developer with 4 years of experience, with expertise in React, Next.js and Node.js
 
-* 🌍  I'm based in Bengaluru/ Pune/ Guwahati
+* 🌍  I'm based in Bangalore/ Assam
 * ✉️  You can contact me at [chatterjee.codes@gmail.com](mailto:chatterjee.codes@gmail.com)
-* 🧠  I'm learning Docker currently
 * 🤝  I'm open to collaborating on building interesting projects
 * ⚡  My idol is my future-self
 
